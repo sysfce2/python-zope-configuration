@@ -65,7 +65,6 @@ setup(name='zope.configuration',
           'test': ['zope.testing', 'zope.testrunner >= 6.4']
       },
       install_requires=[
-          'setuptools',
           'zope.i18nmessageid',
           'zope.interface',
           'zope.schema >= 4.9',
