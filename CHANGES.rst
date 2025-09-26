@@ -4,7 +4,7 @@ Changes
 7.1 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Remove run-time dependency on ``setuptools``.
 
 
 7.0 (2025-09-12)
